@@ -4207,3 +4207,9 @@ padding: 6px 10px;
 .st-blue {
   background-color: #23b7e5;
 }
+
+.label-check {
+  position: absolute;
+  top: 32px;
+  right: 2em;
+}
